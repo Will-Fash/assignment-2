@@ -1,5 +1,6 @@
 
-
+                           EXECUTION GUIDE
+                           
 * YOU CAN CONNECT TO THE CLUSTER USING "http://13.58.129.201:9200/" *
 
 *CODE DESCRIPTION*
