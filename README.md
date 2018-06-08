@@ -1,9 +1,9 @@
 
-                                             EXECUTION GUIDE
+                                             #EXECUTION GUIDE
                            
 * YOU CAN CONNECT TO THE CLUSTER USING "http://13.58.129.201:9200/" *
 
-CODE DESCRIPTION:
+#CODE DESCRIPTION:
 
 *first.py* - This was the first python code run and it was used to extract tweets.
 
